@@ -36,4 +36,8 @@ To serve as a reference and learning base for writing clean, effective, and main
 
 ---
 
+## 📖 Documentation
+I document the details related to what I have learned within the test classes, but they are written only in Turkish.
+
+
 Feel free to clone, explore, and contribute! This repository is designed to grow as new testing strategies and tools emerge.
