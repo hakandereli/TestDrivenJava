@@ -27,6 +27,7 @@ To serve as a reference and learning base for writing clean, effective, and main
 ## 🛠️ Technologies Used
 
 - Java 17+
+- Maven or Gradle (build tools)
 - JUnit 5 (Jupiter)
 - Mockito
 - Spring Boot (for integration testing)
