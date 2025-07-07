@@ -24,7 +24,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *       </plugin>
  *     </plugins>
  *     </build>
- *
  *     clean install işleminde menüden testleri kapatırsan testler ignore edilir.
  *     Test methodlarının isimleri mantıklı ve açıklayıcı olmalı.
  *     assertEquals metodu ile beklenen ve elde edilen değerleri karşılaştırabilirsin.
