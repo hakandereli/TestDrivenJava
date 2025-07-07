@@ -3,7 +3,7 @@ package org.company.unit.example1;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /***
  * Testin amacı hataların önüne geçmek ve kodun beklenen şekilde çalıştığını doğrulamaktır.
